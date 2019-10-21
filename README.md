@@ -11,6 +11,6 @@
 8. Download and install these libraries to Arduino IDE.: [xCore](https://github.com/xinabox/arduino-CORE), [xSW01](https://github.com/xinabox/arduino-SW01) and [arduino-web3](https://github.com/xinabox/web3-arduino)
 9. CW02 will now trasmit SW01 data to your blockchain with 10 minutes of interval.
 
-Detailed document: [Google doc link](https://drive.google.com/file/d/1RKMMdQ4pJGQPdiBhSuIjhd9sg6AolS4k/view?usp=sharing)
+Detailed document: [Google doc link]()
 
 
